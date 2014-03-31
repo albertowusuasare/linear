@@ -49,7 +49,7 @@ public class ReportingLinearStructure<T>
 
   /**
    * Build a new experiment that uses ls to do the real work and
-   * prints comments to stdout using the spedified prefix.
+   * prints comments to stdout using the specified prefix.
    */
   public ReportingLinearStructure(LinearStructure<T> ls, String prefix)
   {
