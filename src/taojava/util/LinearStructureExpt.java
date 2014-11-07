@@ -10,7 +10,7 @@ import java.util.Iterator;
  * @author Samuel A. Rebelsky
  * @author Your Name Here
  */
-public class LSExpt
+public class LinearStructureExpt
 {
   // +----------------+--------------------------------------------------
   // | Static Methods |

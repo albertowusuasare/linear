@@ -13,6 +13,6 @@ public class LinkedStackExpt
   public static void main(String[] args)
     throws Exception
   {
-    LSExpt.expt01(new LinkedStack<String>(), "linked.");
+    LinearStructureExpt.expt01(new LinkedStack<String>(), "linked.");
   } // main(String[])
 } // class LinkedStackExpt

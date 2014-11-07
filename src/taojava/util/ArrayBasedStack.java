@@ -75,7 +75,6 @@ public class ArrayBasedStack<T>
       {
         throw new Exception("full");
       } // if full
-    // STUB
     this.size++;
   } // put(T)
 
